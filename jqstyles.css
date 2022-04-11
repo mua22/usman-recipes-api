@@ -1,4 +1,10 @@
 .recipe {
-  border-bottom: 2px dashed blue;
-  margin-bottom: 5px;
+    border-bottom: 2px dashed blue;
+    margin-bottom: 5px;
+}
+
+div#Help,
+div#updateHelp {
+    margin: 0 0 1rem 0;
+    color: red;
 }
